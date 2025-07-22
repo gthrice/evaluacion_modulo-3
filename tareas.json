@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "terminar trabajos bootcamp",
+        "descripcion": "modulo 1 y 2",
+        "completada": false
+    },
+    {
+        "nombre": "hacer almmuerzo",
+        "descripcion": "espagetti",
+        "completada": true
+    },
+    {
+        "nombre": "sacar la basura",
+        "descripcion": "martes jueves sabado",
+        "completada": true
+    },
+    {
+        "nombre": "estudiar",
+        "descripcion": "analisis de datos",
+        "completada": false
+    }
+]
